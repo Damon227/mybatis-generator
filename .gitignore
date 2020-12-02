@@ -33,3 +33,4 @@ build/
 .vscode/
 
 /src/main/java/cn/ycm/mybatis/generator/demo
+**/resources/mapper/*.xml
